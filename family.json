@@ -113,10 +113,7 @@
         ]},
         {"born": 1993, "firstname": "Mario"}
     ]},
-    {"born": 1955, "firstname": "Vincent", "children": [
-        {"born": 1975, "firstname": "Bradley"},
-        {"born": 1980, "firstname": "Jeffery"}
-    ]},
+    {"born": 1955, "firstname": "Vincent"},
     {"born": 1957, "firstname": "Joël", "children": [
         {"born": 1976, "firstname": "Jeffrey", "children": [
             {"born": 2011, "firstname": "Matthew"}
