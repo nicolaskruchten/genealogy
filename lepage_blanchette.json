@@ -10,14 +10,14 @@
                 {"firstname":"Marcie", "born": 1975}
             ]},
             {"firstname":"Terry", "born": 1953, "children": [
-                {"firstname":"Terrie", "born": 1972},
+                {"firstname":"Terri", "born": 1972},
                 {"firstname":"Katheleen", "born": 1974},
                 {"firstname":"Carli", "born": 1977},
                 {"firstname":"Shannon", "born": 1979 },
                 {"firstname":"Andrew", "born": 1985}
             ]},
             {"firstname":"Dennis", "born": 1955, "children": [
-                {"firstname":"Jodi", "born": 1977},
+                {"firstname":"Jodi Lynn", "born": 1977},
                 {"firstname":"Scott", "born": 1978},
                 {"firstname":"Sandra", "born": 1983},
                 {"firstname":"Andrea", "born": 1990}
@@ -60,6 +60,8 @@
                 {"firstname":"Brandon", "born": 2001},
                 {"firstname":"Dustin", "born": 2003}
             ]},
-            {"firstname":"Nicole", "born": 1977}
+            {"firstname":"Nicole", "born": 1977, "children": [
+                {"firstname": "Hope", "born": 2015}
+            ]}
         ]}
     ]}

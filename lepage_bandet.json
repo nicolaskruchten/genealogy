@@ -64,7 +64,9 @@
             {"born": 1999, "firstname": "Phoebe"},
             {"born": 2000, "firstname": "Isiah"},
             {"born": 2002, "firstname": "Brenna"},
-            {"born": 2011, "firstname": "Rubymae"}
+            {"born": 2011, "firstname": "Rubymae"},
+            {"born": 2014, "firstname": "Japheth"},
+            {"born": 2015, "firstname": "Josiah"}
         ]},
         {"born": 1976, "firstname": "Celeste", "children": [
             {"born": 2003, "firstname": "Emmanuel"},
@@ -95,7 +97,8 @@
         {"born": 1981, "firstname": "Gabriel", "children": [
             {"born": 2007, "firstname": "Andrew"},
             {"born": 2009, "firstname": "Elijah"},
-            {"born": 2012, "firstname": "Anna"}
+            {"born": 2012, "firstname": "Anna"},
+            {"born": 2015, "firstname": "Naomi"}
         ]},
         {"born": 1982, "firstname": "François", "children": [
             {"born": 2010, "firstname": "Alexandre"},

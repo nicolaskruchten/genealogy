@@ -37,7 +37,6 @@
             {"firstname": "Tido", "born": 2008},
             {"firstname": "Sydney", "born": 2011}
         ]},
-        {"firstname": "Sharon", "born": 2004},
         {"firstname": "Anne-Marie", "born": 1982, "children": [
 
             {"firstname": "Keira", "born": 2007},
@@ -48,7 +47,8 @@
 
             {"firstname": "Kaylee", "born": 2010},
             {"firstname": "Carter", "born": 2013}
-        ]}
+        ]},
+        {"firstname": "Sharon", "born": 2004}
     ]},
     {"firstname": "Lorraine", "born": 1955, "children": [
 
