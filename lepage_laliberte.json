@@ -34,9 +34,9 @@
             {"firstname":"Julia"},
             {"firstname":"Ashley"},
             {"firstname":"Rebecca"},
-            {"firstname":"Jessica"},
-            {"firstname":"Kevin"}
-        ]}
+            {"firstname":"Jessica"}
+        ]},
+        {"firstname":"Kevin"}  
     ]},
     {"firstname":"Donald", "children": [
         {"firstname":"Tracy", "children": [
