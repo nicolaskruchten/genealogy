@@ -85,7 +85,7 @@ d3.json("lepage_blanchette.json", function(error, root) {
     .data(["Emile & Helen"])
     .enter().append("text")
       .attr("class", "title")
-      .attr("transform", function(d) { return "translate(-70,20)" })
+      .attr("transform", function(d) { return "translate(-35,20)" })
       .text(function(d) { return d; });
 
   var node = svg.selectAll(".node")

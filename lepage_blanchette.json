@@ -48,7 +48,6 @@
                 {"firstname":"Dante", "born": 1997}
             ]}
         ]},
-        {"firstname":"Wally", "born": 1929},
         {"firstname":"Edgar", "born": 1937},
         {"firstname":"George", "born": 1941, "children": [
             {"firstname":"Gregory", "born": 1968 , "children": [
