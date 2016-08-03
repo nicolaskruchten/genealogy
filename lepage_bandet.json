@@ -1,7 +1,9 @@
 {"born": 1919, "firstname": "", "children": [
     {"born": 1943, "firstname": "Simplice"},
     {"born": 1944, "firstname": "Marguerite", "children": [
-        {"born": 1979, "firstname": "Mira"},
+        {"born": 1979, "firstname": "Mira", "children": [
+            {"born": 2016, "firstname": "Harmonie"}
+        ]},
         {"born": 1985, "firstname": "Charles"}
     ]},
     {"born": 1945, "firstname": "Honoré"},
@@ -33,7 +35,7 @@
             {"born": 2012, "firstname": "Isabelle"}
         ]},
         {"born": 1971, "firstname": "Chantal", "children": [
-            {"born": 2000, "firstname": "Charles-Edward"},
+            {"born": 2000, "firstname": "Charles-Edouard"},
             {"born": 2003, "firstname": "Philippe"}
         ]},
         {"born": 1973, "firstname": "Francine", "children": [
@@ -41,8 +43,8 @@
             {"born": 2003, "firstname": "Mathieu"}
         ]},
         {"born": 1975, "firstname": "Ginette", "children": [
-            {"born": 2000, "firstname": "Dominique"},
-            {"born": 2002, "firstname": "Zachare"},
+            {"born": 2000, "firstname": "Dominic"},
+            {"born": 2002, "firstname": "Zacharie"},
             {"born": 2005, "firstname": "Eric"},
             {"born": 2007, "firstname": "Miguel"}
         ]},
@@ -72,7 +74,7 @@
             {"born": 2003, "firstname": "Emmanuel"},
             {"born": 2006, "firstname": "Anita"},
             {"born": 2008, "firstname": "Eva"},
-            {"born": 2010, "firstname": "Joël"}
+            {"born": 2010, "firstname": "Joel"}
         ]}
     ]},
     {"born": 1950, "firstname": "Mariette", "children": [
@@ -138,7 +140,9 @@
     {"born": 1958, "firstname": "Bernard", "children": [
         {"born": 1983, "firstname": "Natalie", "children": [
             {"born": 2001, "firstname": "Raven"},
-            {"born": 2008, "firstname": "Talia"}
+            {"born": 2008, "firstname": "Talia"},
+            {"firstname": "Amèlie"},
+            {"firstname": "Karine"}
         ]},
         {"born": 1994, "firstname": "Alexine"},
         {"born": 1995, "firstname": "Céline"}
@@ -160,7 +164,7 @@
             {"born": 2004, "firstname": "Alaina"},
             {"born": 2004, "firstname": "Brooke"}
         ]},
-        {"born": 1986, "firstname": "Jasmème"},
+        {"born": 1986, "firstname": "Jasmène"},
         {"born": 1987, "firstname": "Éthen", "children": [
             {"born": 2012, "firstname": "Darius"}
         ]}

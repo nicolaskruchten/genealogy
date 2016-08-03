@@ -1,5 +1,6 @@
     {"firstname":"", "born": 1894, "children": [
         {"firstname":"Beatrice", "born": 1932, "children": [
+            {"firstname":"Wally"},
             {"firstname":"Linda", "born": 1950, "children": [
                 {"firstname":"Michelle", "born": 1972},
                 {"firstname":"Douglas", "born": 1974}

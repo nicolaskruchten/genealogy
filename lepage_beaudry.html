@@ -44,7 +44,8 @@ var diameter = 800;
 function yearToY(year){ return (year-1927)*3.5;}
 function getY(d) { 
   //return d.y;
-  return yearToY(d.born);
+  //return yearToY(d.born);
+  return d.depth*100;
 };
 
 var tree = d3.layout.tree()
@@ -78,19 +79,6 @@ d3.json("lepage_beaudry.json", function(error, root) {
     .enter().append("path")
       .attr("class", "link")
       .attr("d", diagonal);
-
-
-  var decade = svg.selectAll(".decade")
-      .data([1930,1940,1950,1960,1970,1980,1990,2000,2010,2020])
-    .enter().append("g")
-      .attr("class", "decade")
-  decade.append("circle")
-      .attr("r", function(d){return yearToY(d)});
-
-  decade.append("text")
-      .attr("dy", ".31em")
-      .attr("transform", function(d) { return "translate(-10,-"+yearToY(d)+")" })
-      .text(function(d) { return d; });
 
   svg.selectAll(".title")
     .data(["Adjutor & Jeanne"])
