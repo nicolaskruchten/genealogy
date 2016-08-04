@@ -141,8 +141,8 @@
         {"born": 1983, "firstname": "Natalie", "children": [
             {"born": 2001, "firstname": "Raven"},
             {"born": 2008, "firstname": "Talia"},
-            {"born": 2010, "firstname": "Amélie"},
-            {"born": 2012, "firstname": "Karine"}
+            {"born": 2009, "firstname": "Amélie"},
+            {"born": 2011, "firstname": "Karine"}
         ]},
         {"born": 1994, "firstname": "Alexine"},
         {"born": 1995, "firstname": "Céline"}
